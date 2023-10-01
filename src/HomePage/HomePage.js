@@ -1,5 +1,5 @@
 import React from 'react';
-import PieChart from '../Charts/PieChart';
+import PieChart from '../Charts/PieChart_D3';
 
 
   function HomePage() {
